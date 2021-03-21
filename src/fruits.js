@@ -36,7 +36,7 @@ const useStyles = makeStyles((theme) => ({
   },
   avatar: {
     backgroundColor: red[500],
-  },
+  },  
 
 fullHeightCard: {
  
@@ -159,7 +159,7 @@ marginRight: "80px",
       />
  <CardContent>
         <Typography variant="body2" color="textSecondary" component="p">
-          A banana is a curved, yellow fruit with a thick skin and soft sweet flesh. If you eat a banana every day for breakfast.
+          A banana is a only curved, yellow fruit with a thick skin and soft sweet flesh. If you eat a banana every day for breakfast.
            
         </Typography>
       </CardContent>
