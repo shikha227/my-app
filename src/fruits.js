@@ -159,7 +159,7 @@ marginRight: "80px",
       />
  <CardContent>
         <Typography variant="body2" color="textSecondary" component="p">
-          A banana is a only curved, yellow fruit with a thick skin andd soft sweet flesh. If you eat a banana every day for breakfast.
+          A banana is a only curved, yellow fruit with a thick skin andd the soft sweet flesh. If you eat a banana every day for breakfast.
            
         </Typography>
       </CardContent>
